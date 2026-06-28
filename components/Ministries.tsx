@@ -3,7 +3,7 @@ export default function Assemblies() {
     {
       name: "Embassy of Power Assembly - Chiredzi",
       description: "Chiredzi Gvt High School, Chiredzi",
-      contact: "Elder V Sikozho - +263779246104",
+      contact: "Pst C Ndogwedu - +263771576891",
     },
     {
       name: "Shining Light Assembly",
@@ -23,7 +23,7 @@ export default function Assemblies() {
     {
       name: "Upper Room Assembly",
       description: "Shakashe Pry School, Masvingo",
-      contact: "Pst Galeboe - +26772442896",
+      contact: "Pst T Muyambo - +263779293554s",
     },
     {
       name: "Harare",
