@@ -8,7 +8,7 @@ export default function Welcome() {
         </h2>
 
         <p className="mt-6 text-gray-600 text-lg leading-relaxed">
-          To raise end - time witnesses who carry the evidence of visible glory, igniting end- time revival and end – time 
+          Our Aim is to raise end - time witnesses who carry the evidence of visible glory, igniting end- time revival and end – time 
           harvest, and preparing a people ready for the coming of the Lord.  
         </p>
 
