@@ -32,9 +32,7 @@ export default function Hero() {
         </p>
 
         {/* Optional button */}
-        <button className="mt-6 px-6 py-3 bg-amber-400 text-black font-semibold rounded-lg hover:bg-amber-300 transition">
-          Learn More
-        </button>
+        
 
       </div>
     </section>
