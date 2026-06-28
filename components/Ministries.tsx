@@ -23,7 +23,7 @@ export default function Assemblies() {
     {
       name: "Upper Room Assembly",
       description: "Shakashe Pry School, Masvingo",
-      contact: "Pst T Muyambo - +263779293554s",
+      contact: "Pst T Muyambo - +263779293554",
     },
     {
       name: "Harare",
