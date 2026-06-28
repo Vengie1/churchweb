@@ -35,6 +35,7 @@ export default function Assemblies() {
       description: "Bindura",
       contact: "Prophet T P Marumbwa - +263780834014",
     },
+    
     {
       name: "Botswana",
       description: "Tlokweng Village, Gaborone",
@@ -42,6 +43,7 @@ export default function Assemblies() {
     },
   ];
 
+  
   return (
     <section className="bg-slate-100">
       <h2 className="text-3xl font-bold text-center mb-12">
@@ -73,4 +75,5 @@ export default function Assemblies() {
       </div>
     </section>
   );
+  
 }
