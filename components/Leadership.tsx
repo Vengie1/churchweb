@@ -2,7 +2,7 @@ import Image from "next/image";
 
 const leaders = [
   {
-    name: "Apostle E Ndogwadu",
+    name: "Apostle E Ndogwedu",
     role: "Visionary",
     image: "/images/pastor1.jpeg",
   },
