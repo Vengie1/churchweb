@@ -3,7 +3,6 @@ import {
   FaWhatsapp,
   FaTiktok,
 } from "react-icons/fa";
-
 export default function Footer() {
   return (
     <footer className="bg-[#0A2342] text-white py-10">
@@ -50,7 +49,7 @@ export default function Footer() {
         </div>
 
         <p className="mt-8 text-sm text-gray-400">
-          © {new Date().getFullYear()} Shekinah Glory Kingdom Church. All rights reserved.
+          © {new Date().getFullYear()} Vsikozho. All rights reserved.
         </p>
 
       </div>
