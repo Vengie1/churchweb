@@ -10,7 +10,7 @@ export default function VisionMission() {
           </h3>
           <p className="text-gray-600">
             To raise end - time witnesses who carry the evidence 
-            of visible glory, igniting end- time revival and end – time harvest, and preparing a people ready for the coming of the Lord.  
+            of visible glory, for time revival and end – time harvest, and preparing a people ready for the coming of the Lord.  
           </p>
         </div>
 
