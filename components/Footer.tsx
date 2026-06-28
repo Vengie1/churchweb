@@ -1,9 +1,9 @@
 import Link from "next/link";
 import {
   FaFacebookF,
-  FaYoutube,
+  
   FaWhatsapp,
-  FaInstagram,
+  
   FaTiktok,
 } from "react-icons/fa";
 
