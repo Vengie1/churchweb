@@ -7,7 +7,7 @@ interface GalleryItem {
 }
 
 const images: GalleryItem[] = [
-  { id: 1, src: "/images/bts1.jpg", alt: "Image 1" },
+  { id: 1, src: "/images/bts1.jpeg", alt: "Image 1" },
   { id: 2, src: "/images/bts2.jpeg", alt: "Image 2" },
   { id: 3, src: "/images/bts3.jpeg", alt: "Image 3" },
   { id: 4, src: "/images/bts5.jpeg", alt: "Image 4" },
