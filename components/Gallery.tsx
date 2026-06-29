@@ -7,10 +7,13 @@ interface GalleryItem {
 }
 
 const images: GalleryItem[] = [
-  { id: 1, src: "/images/1.jpg", alt: "Image 1" },
-  { id: 2, src: "/images/2.jpeg", alt: "Image 2" },
-  { id: 3, src: "/images/3.jpeg", alt: "Image 3" },
-  { id: 4, src: "/images/4.jpeg", alt: "Image 4" },
+  { id: 1, src: "/images/bts1.jpg", alt: "Image 1" },
+  { id: 2, src: "/images/bts2.jpeg", alt: "Image 2" },
+  { id: 3, src: "/images/bts3.jpeg", alt: "Image 3" },
+  { id: 4, src: "/images/bts5.jpeg", alt: "Image 4" },
+  {id: 3, src: "/images/bts6.jpeg", alt: "Image 3" },
+  { id: 4, src: "/images/bts8.jpeg", alt: "Image 4" },
+
 ];
 
 export default function Gallery() {
