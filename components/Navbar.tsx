@@ -20,7 +20,7 @@ export default function Navbar() {
         <div className="flex items-center gap-3">
           <Image src="/logo.png" alt="SGKC" width={100} height={100} />
           <div>
-            <h1 className="font-bold text-sm">Shekina Glory</h1>
+            <h1 className="font-bold text-sm">Shekinah Glory</h1>
             <p className="text-xs text-amber-400">Kingdom Church</p>
           </div>
         </div>
